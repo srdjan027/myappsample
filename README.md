@@ -1,2 +1,2 @@
 # My App
-This is my app :sweat_smile:
+This is my app :sweat_smile: !
